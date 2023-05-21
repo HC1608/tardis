@@ -1,7 +1,7 @@
 ======
 TARDIS
 ======
-
+this is a good site for working on GSOC 
 TARDIS is a tool that creates synthetic observations (*spectra*) for exploding
 stars (*supernovae*).
 
